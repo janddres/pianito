@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_pin_event" id="yWvu^P4@L,.jcp?.x2rh" x="0" y="0"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_leds" id="|;:$[ECq|^laeqAge`N9"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_pin_event" id="5Ho3O5XB,dHWZK]Z$y%Q" x="296" y="8"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="8^ozgN$VD^}epa/_gO@v"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_pin_event" id="FJ%$`|P$Whq),`7zU2PQ" x="623" y="17"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="PYrB~72vnyC5lKn;-t|3"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="@%=JT]Vbf@n~qGG;v!3@" x="3" y="325"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="=R{AqYFBIQ1U%lkGYg+;"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="F*uF6}fU(o7Iz%qK_s~B" x="290" y="327"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="U[!.*|v0rS=n]9Pd5X^5"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="5e^MUleO@/oh1$7xymMK" x="610" y="331"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="UZ6@TC`i]ozPbcj|tB~U"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
